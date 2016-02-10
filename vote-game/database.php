@@ -3,10 +3,10 @@
 	$database = new medoo([
 	// required
 	'database_type' => 'mysql',
-	'database_name' => 'vote_game_creator',
+	'database_name' => 'vote-the-game',
 	'server' => 'localhost',
-	'username' => 'vote_master',
-	'password' => 'password',
+	'username' => 'root',
+	'password' => 'root',
 	'charset' => 'utf8',
  ]);
 
